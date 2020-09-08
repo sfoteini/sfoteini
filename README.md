@@ -20,8 +20,8 @@ My name is Foteini and I am currently studying Electrical and Computer Enginerin
 <br><br>
 
 ### Find me on
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sfoteini/sfoteini/master/images/twitter.svg" width="15">&nbsp;&nbsp;<a href="https://twitter.com/ClairSavvidou">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sfoteini/sfoteini/master/images/linkedin.svg" width="15">&nbsp;&nbsp;<a href="https://www.linkedin.com/in/foteini-savvidou">LinkedIn</a>
+<p align="center" distribute="center">
+  <a href="https://twitter.com/ClairSavvidou">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/foteini-savvidou">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.to/sfoteini">Dev.to</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://medium.com/@foteinisavvidou">Medium</a>
 </p>
 <br>
 
