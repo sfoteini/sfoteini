@@ -5,7 +5,7 @@
   <img src="https://badges.pufler.dev/visits/sfoteini/sfoteini?color=0190df" alt="Visits Badge">
   <img src="https://badges.pufler.dev/repos/sfoteini?color=0190df" alt="Repos Badge">
   <img src="https://badges.pufler.dev/years/sfoteini?color=0190df" alt="Years Badge">
-  <img src="https://badges.pufler.dev/commits/monthly/sfoteini?color=0190df" alt="Commits Badge">
+  <img src="https://badges.pufler.dev/commits/yearly/sfoteini?color=0190df" alt="Commits Badge">
 </p>
 
 <br>
