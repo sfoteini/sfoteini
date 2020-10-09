@@ -1,14 +1,4 @@
 ![Profile Header Image](https://raw.githubusercontent.com/sfoteini/sfoteini/master/images/githubReadMe.jpg)
-<br>
-
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/sfoteini/sfoteini?color=0190df" alt="Visits Badge">
-  <img src="https://badges.pufler.dev/repos/sfoteini?color=0190df" alt="Repos Badge">
-  <img src="https://badges.pufler.dev/years/sfoteini?color=0190df" alt="Years Badge">
-  <img src="https://badges.pufler.dev/commits/yearly/sfoteini?color=0190df" alt="Commits Badge">
-</p>
-
-<br>
 
 ### Hi there 👋
 
@@ -17,12 +7,10 @@ My name is Foteini and I am currently studying Electrical and Computer Enginerin
 - 👩‍🎓 I am Microsoft Learn Student Ambassador
 - 🌱 I’m currently learning Data Analysis and Machine Learning with Python
 - ⚡ I'm passionate about Arts & Design and I love creating beautiful things.
-<br><br>
-
-### Find me on
-<p align="center" distribute="center">
-  <a href="https://twitter.com/ClairSavvidou">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/foteini-savvidou">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.to/sfoteini">Dev.to</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://medium.com/@foteinisavvidou">Medium</a>
-</p>
 <br>
 
-![Profile Footer Image](https://raw.githubusercontent.com/sfoteini/sfoteini/master/images/githubReadMeFooter.jpg)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2&link=http:twitter.com/ClairSavvidou" alt="Twitter">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&link=http:linkedin.com/in/foteini-savvidou" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Dev.to-blue?style=for-the-badge&logo=dev%2Eto&logoColor=white&color=0A0A0A&link=http:dev.to/sfoteini" alt="Dev.To">
+</p>
