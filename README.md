@@ -10,7 +10,7 @@ My name is Foteini and I am currently studying Electrical and Computer Enginerin
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2&link=http:twitter.com/ClairSavvidou" alt="Twitter">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&link=http:linkedin.com/in/foteini-savvidou" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Dev.to-blue?style=for-the-badge&logo=dev%2Eto&logoColor=white&color=0A0A0A&link=http:dev.to/sfoteini" alt="Dev.To">
+  <a href="https://www.twitter.com/ClairSavvidou" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/foteini-savvidou" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="Linkedin"></a>
+  <a href="https://www.dev.to/sfoteini" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-blue?style=for-the-badge&logo=dev%2Eto&logoColor=white&color=0A0A0A" alt="Dev.To"></a>
 </p>
