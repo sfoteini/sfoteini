@@ -1,5 +1,6 @@
-![Profile Header Image](https://raw.githubusercontent.com/sfoteini/sfoteini/master/images/githubReadMe.jpg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sfoteini/sfoteini/master/GitHub-Banner.png">
+</p>
 
 ### Hi there 👋
 
