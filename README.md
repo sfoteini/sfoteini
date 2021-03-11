@@ -9,7 +9,7 @@ My name is Foteini and I am an Electrical and Computer Engineering student who l
 <br><br>
 <p align="center">
    <a href="https://www.linkedin.com/in/foteini-savvidou" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="https://www.twitter.com/ClairSavvidou" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/SavvidouFoteini" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.foteinisavvidou.codes/" target="_blank"><img src="https://img.shields.io/badge/Foteini Savvidou | Blog-A5FFD9?style=for-the-badge" alt="Blog"></a>
   <a href="https://www.dev.to/sfoteini" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev%2Eto&logoColor=white" alt="Dev.To"></a>
 </p>
