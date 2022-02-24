@@ -8,11 +8,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/foteini-savvidou)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SavvidouFoteini)
 [![Blog Badge](https://img.shields.io/badge/Foteini%20Savvidou's-Blog-21759B?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://foteinisavvidou.azurewebsites.net/)
+[![Blog Badge](https://img.shields.io/badge/Educator%20Developer%20Blog-Posts-6264A7?style=flat&logo=microsoft&logoColor=white&color=6264A7)](https://foteinisavvidou.azurewebsites.net/)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat&logo=dev%2Eto&logoColor=white&color=0A0A0A)](https://www.dev.to/sfoteini)
 
 
 # Hi there 👋
-My name is Foteini and I am an Electrical and Computer Engineering student and here you will find a small sample of the projects I am working on!
+My name is Foteini and I am an Electrical and Computer Engineering student. Here you will find a small sample of the projects I am working on!
 
 ![Pronouns Badge](https://img.shields.io/badge/Pronouns-She/Her/Hers-D8BFD8?style=flat)
 
@@ -28,5 +29,24 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 ![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=D8BFD8)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-D8BFD8?style=flat&logo=microsoftazure&logoColor=white&color=D8BFD8)
 ![MATLAB](https://img.shields.io/badge/Tools-MATLAB-D8BFD8?style=flat&logo=matlab&logoColor=white&color=D8BFD8)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-D8BFD8?style=flat&logo=jupyter&logoColor=white&color=D8BFD8)
+![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8)
 ![Adobe Photoshop](https://img.shields.io/badge/Tools-Adobe%20Photoshop-D8BFD8?style=flat&logo=adobephotoshop&logoColor=white&color=D8BFD8)
 ![Adobe Illustrator](https://img.shields.io/badge/Tools-Adobe%20Illustrator-D8BFD8?style=flat&logo=adobeillustrator&logoColor=white&color=D8BFD8)
+
+<!-- Coming Soom 
+## 📚 Latest Blog Posts
+
+## 🎤 Latest Talks
+-->
+
+## 📈 GitHub Stats
+<!-- GitHub Stats by github-readme-stats.vercel.app -->
+
+<a href="https://github.com/sfoteini">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfoteini&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Foteini's GitHub Stats" />
+</a>
+
+<a href="https://github.com/sfoteini">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sfoteini&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=D8BFD8&bg_color=1A2B34" alt="Foteini's GitHub Stats" />
+</a>
