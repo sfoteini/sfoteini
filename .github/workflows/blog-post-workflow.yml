@@ -14,10 +14,10 @@ jobs:
        with:
          comment_tag_name: BLOGPOSTS
          feed_list: "https://foteinisavvidou.azurewebsites.net/feed/"
-	       max_post_count: "5"
-	       template: $newline - [$title]($url) - $newline - $description
+	 max_post_count: "5"
+	 template: $newline - [$title]($url) - $newline - $description
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          comment_tag_name: TALKS
          feed_list: "https://foteinisavvidou.azurewebsites.net/event/feed/"
-	       max_post_count: "5"
+	 max_post_count: "5"
