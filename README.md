@@ -37,25 +37,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
- - [Saving Santa Claus with Azure Custom Vision and Python](https://foteinisavvidou.azurewebsites.net/saving-santa-claus-with-azure-custom-vision-and-python/) - 
- - &lt;p&gt;In this article, we will build and deploy a festive Custom Vision object detection model to help the Christmas elves find Santa Claus.&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net/saving-santa-claus-with-azure-custom-vision-and-python/&quot;&gt;Saving Santa Claus with Azure Custom Vision and Python&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net&quot;&gt;Foteini Savvidou&lt;/a&gt;.&lt;/p&gt;
-
- - [A festive introduction to Computer Vision with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/a-festive-introduction-to-computer-vision-with-azure-custom-vision/) - 
- - &lt;p&gt;The session &quot;A festive introduction to Computer Vision with Azure Custom Vision&quot; presented at the Yearly Edu Summit - Fall 2021.&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net/a-festive-introduction-to-computer-vision-with-azure-custom-vision/&quot;&gt;A festive introduction to Computer Vision with Azure Custom Vision&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net&quot;&gt;Foteini Savvidou&lt;/a&gt;.&lt;/p&gt;
-
- - [Object detection model for grocery checkout with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/object-detection-model-for-grocery-checkout-with-azure-custom-vision/) - 
- - &lt;p&gt;In this article, we will build a Custom Vision object detection system for a grocery store that identifies different vegetables.&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net/object-detection-model-for-grocery-checkout-with-azure-custom-vision/&quot;&gt;Object detection model for grocery checkout with Azure Custom Vision&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net&quot;&gt;Foteini Savvidou&lt;/a&gt;.&lt;/p&gt;
-
- - [Computer vision made easy with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/computer-vision-made-easy-with-azure-custom-vision-global-ai-student-conference/) - 
- - &lt;p&gt;The session &quot;Computer vision made easy with Azure Custom Vision&quot; presented at the 3rd  Global AI Student Conference.&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net/computer-vision-made-easy-with-azure-custom-vision-global-ai-student-conference/&quot;&gt;Computer vision made easy with Azure Custom Vision&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net&quot;&gt;Foteini Savvidou&lt;/a&gt;.&lt;/p&gt;
-
- - [Build an AI-powered “green” app with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/build-an-ai-powered-green-app-with-azure-custom-vision/) - 
- - &lt;p&gt;The session &quot;Build an AI-powered &#39;green&#39; app with Azure Custom Vision&quot; presented at the 29th AzureHeads meetup.&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net/build-an-ai-powered-green-app-with-azure-custom-vision/&quot;&gt;Build an AI-powered “green” app with Azure Custom Vision&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;https://foteinisavvidou.azurewebsites.net&quot;&gt;Foteini Savvidou&lt;/a&gt;.&lt;/p&gt;
+- [Saving Santa Claus with Azure Custom Vision and Python](https://foteinisavvidou.azurewebsites.net/saving-santa-claus-with-azure-custom-vision-and-python/)
+- [A festive introduction to Computer Vision with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/a-festive-introduction-to-computer-vision-with-azure-custom-vision/)
+- [Object detection model for grocery checkout with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/object-detection-model-for-grocery-checkout-with-azure-custom-vision/)
+- [Computer vision made easy with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/computer-vision-made-easy-with-azure-custom-vision-global-ai-student-conference/)
+- [Build an AI-powered “green” app with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/build-an-ai-powered-green-app-with-azure-custom-vision/)
 <!-- BLOGPOSTS:END -->
 
 
