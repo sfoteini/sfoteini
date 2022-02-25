@@ -61,6 +61,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 🎤 Latest Talks
 <!-- TALKS:START -->
+- [A festive introduction to Computer Vision with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/a-festive-introduction-to-computer-vision-with-azure-custom-vision/)
+- [Computer vision made easy with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/computer-vision-made-easy-with-azure-custom-vision-global-ai-student-conference/)
+- [Build an AI-powered “green” app with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/build-an-ai-powered-green-app-with-azure-custom-vision/)
+- [Using scenarios and language understanding in Azure Health Bot](https://foteinisavvidou.azurewebsites.net/using-scenarios-and-language-understanding-in-azure-health-bot/)
+- [Create no-code Machine Learning models with Azure Machine Learning](https://foteinisavvidou.azurewebsites.net/create-no-code-machine-learning-models-with-azure-machine-learning/)
 <!-- TALKS:END -->
 
 
