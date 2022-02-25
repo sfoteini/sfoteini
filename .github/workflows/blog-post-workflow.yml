@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+ schedule: # Run workflow automatically
+   # This will make it run every hour
+   - cron: '0 * * * *' 
+ workflow_dispatch: 
+jobs:
+ update-readme-with-blog:
+   name: Update this repo's README with latest blog posts
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         comment_tag_name: BLOGPOSTS
+         feed_list: "https://foteinisavvidou.azurewebsites.net/feed/"
+	       max_post_count: "5"
+	       template: $newline - [$title]($url) - $newline - $description
+     - uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         comment_tag_name: TALKS
+         feed_list: "https://foteinisavvidou.azurewebsites.net/event/feed/"
+	       max_post_count: "5"
