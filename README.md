@@ -34,11 +34,16 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 ![Adobe Photoshop](https://img.shields.io/badge/Tools-Adobe%20Photoshop-D8BFD8?style=flat&logo=adobephotoshop&logoColor=white&color=D8BFD8)
 ![Adobe Illustrator](https://img.shields.io/badge/Tools-Adobe%20Illustrator-D8BFD8?style=flat&logo=adobeillustrator&logoColor=white&color=D8BFD8)
 
-<!-- Coming Soom 
+
 ## 📚 Latest Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 
 ## 🎤 Latest Talks
--->
+<!-- TALKS:START -->
+<!-- TALKS:END -->
+
 
 ## 📈 GitHub Stats
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
