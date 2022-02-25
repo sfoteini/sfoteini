@@ -15,7 +15,6 @@ jobs:
        comment_tag_name: "BLOGPOSTS"
        feed_list: "https://foteinisavvidou.azurewebsites.net/feed/"
        max_post_count: "5"
-       template: $newline - [$title]($url) - $newline - $description
    - uses: gautamkrishnar/blog-post-workflow@master
      with:
        comment_tag_name: "TALKS"
