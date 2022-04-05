@@ -37,11 +37,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Build an AI web app with Azure Cognitive Services and Flask](https://foteinisavvidou.azurewebsites.net/build-an-ai-web-app-with-azure-cognitive-services-and-flask/)
 - [Translate your notes with Azure Translator and Python](https://foteinisavvidou.azurewebsites.net/translate-your-notes-with-azure-translator-and-python/)
 - [Digitize your notes with Azure Computer Vision and Python](https://foteinisavvidou.azurewebsites.net/digitize-your-notes-with-azure-computer-vision-and-python/)
 - [Saving Santa Claus with Azure Custom Vision and Python](https://foteinisavvidou.azurewebsites.net/saving-santa-claus-with-azure-custom-vision-and-python/)
 - [A festive introduction to Computer Vision with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/a-festive-introduction-to-computer-vision-with-azure-custom-vision/)
-- [Object detection model for grocery checkout with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/object-detection-model-for-grocery-checkout-with-azure-custom-vision/)
 <!-- BLOGPOSTS:END -->
 
 
