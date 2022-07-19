@@ -4,7 +4,6 @@
 
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/sfoteini/sfoteini)](#)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/foteini-savvidou)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SavvidouFoteini)
 [![Blog Badge](https://img.shields.io/badge/Foteini%20Savvidou's-Blog-21759B?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://foteinisavvidou.azurewebsites.net/)
