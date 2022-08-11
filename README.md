@@ -6,7 +6,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/foteini-savvidou)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SavvidouFoteini)
-[![Blog Badge](https://img.shields.io/badge/Foteini%20Savvidou's-Blog-21759B?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://foteinisavvidou.azurewebsites.net/)
+[![Blog Badge](https://img.shields.io/badge/Foteini%20Savvidou's-Blog-21759B?style=flat&color=ce8460)](https://sfoteini.github.io/)
 [![Blog Badge](https://img.shields.io/badge/Educator%20Developer%20Blog-Posts-6264A7?style=flat&logo=microsoft&logoColor=white&color=6264A7)](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1164279)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat&logo=dev%2Eto&logoColor=white&color=0A0A0A)](https://www.dev.to/sfoteini)
 
@@ -18,7 +18,7 @@ My name is Foteini and I am an Electrical and Computer Engineering student. Here
 
 
 ## 😊 About me:
-Foteini Savvidou is an undergraduate Electrical and Computer Engineering student at Aristotle University of Thessaloniki, interested in data science, machine learning, cloud technologies and especially in applications of technology in healthcare and education. She is [Gold Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/49820), developing multiple technological projects and presenting about Microsoft technologies in local and global conferences. Always passionate about teaching and discovering new things, Foteini helps people expand their technical skills through organizing workshops and writes articles on her [blog](https://foteinisavvidou.azurewebsites.net/).
+Foteini Savvidou is an undergraduate Electrical and Computer Engineering student at Aristotle University of Thessaloniki, interested in AI, IoT, Wireless Communications, and cloud technologies, as well as in applications of technology in healthcare and education. She is [Gold Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/49820), developing multiple technological projects and presenting about Microsoft technologies in local and global conferences. Always passionate about teaching and discovering new things, Foteini helps people expand their technical skills through organizing workshops and writes articles on her [blog](https://sfoteini.github.io/).
 
 
 ## 🔧 Technologies & Tools
