@@ -46,11 +46,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 🎤 Latest Talks
 <!-- TALKS:START -->
-- [Empowering patients and healthcare organizations through Azure AI Services](https://foteinisavvidou.azurewebsites.net/empowering-patients-and-healthcare-organizations-through-azure-ai-services/)
-- [Student Ambassadors take over Global Azure Live!](https://foteinisavvidou.azurewebsites.net/student-ambassadors-take-over-global-azure-live/)
-- [A festive introduction to Computer Vision with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/a-festive-introduction-to-computer-vision-with-azure-custom-vision/)
-- [Computer vision made easy with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/computer-vision-made-easy-with-azure-custom-vision-global-ai-student-conference/)
-- [Build an AI-powered “green” app with Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/build-an-ai-powered-green-app-with-azure-custom-vision/)
+- [Empowering patients and healthcare organizations through Azure AI Services](https://sfoteini.github.io/blog/empowering-patients-and-healthcare-organizations-through-azure-ai-services/)
+- [Student Ambassadors take over Global Azure Live!](https://sfoteini.github.io/blog/student-ambassadors-take-over-global-azure-live/)
+- [A festive introduction to Computer Vision with Azure Custom Vision](https://sfoteini.github.io/blog/a-festive-introduction-to-computer-vision-with-azure-custom-vision/)
+- [Computer vision made easy with Azure Custom Vision](https://sfoteini.github.io/blog/computer-vision-made-easy-with-azure-custom-vision-global-ai-student-conference/)
+- [Build an AI-powered “green” app with Azure Custom Vision](https://sfoteini.github.io/blog/build-an-ai-powered-green-app-with-azure-custom-vision/)
 <!-- TALKS:END -->
 
 
