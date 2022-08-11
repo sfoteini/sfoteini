@@ -36,11 +36,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
-- [A visual introduction to Internet of Things &lpar;IoT&rpar;](https://foteinisavvidou.azurewebsites.net/a-visual-introduction-to-internet-of-things-iot/)
-- [Use a TensorFlow model exported from Azure Custom Vision](https://foteinisavvidou.azurewebsites.net/use-a-tensorflow-model-exported-from-azure-custom-vision/)
-- [Celebrating Global Accessibility Awareness Day!](https://foteinisavvidou.azurewebsites.net/celebrating-global-accessibility-awareness-day/)
-- [Empowering patients and healthcare organizations through Azure AI Services](https://foteinisavvidou.azurewebsites.net/empowering-patients-and-healthcare-organizations-through-azure-ai-services/)
-- [Student Ambassadors take over Global Azure Live!](https://foteinisavvidou.azurewebsites.net/student-ambassadors-take-over-global-azure-live/)
+- [A visual introduction to Internet of Things &lpar;IoT&rpar;](https://sfoteini.github.io/blog/a-visual-introduction-to-iot/)
+- [Use a TensorFlow model exported from Azure Custom Vision](https://sfoteini.github.io/blog/use-a-tensorflow-model-exported-from-azure-custom-vision/)
+- [Identify plant leaf diseases with the Custom Vision SDK for Python](https://sfoteini.github.io/blog/identify-plant-leaf-diseases-with-the-custom-vision-sdk-for-python/)
+- [Deploy a WordPress site to Azure App Service](https://sfoteini.github.io/blog/deploy-a-wordpress-site-to-azure-app-service/)
+- [Celebrating Global Accessibility Awareness Day!](https://sfoteini.github.io/blog/celebrating-global-accessibility-awareness-day/)
 <!-- BLOGPOSTS:END -->
 
 
