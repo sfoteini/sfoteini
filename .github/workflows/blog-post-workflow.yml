@@ -13,10 +13,10 @@ jobs:
    - uses: gautamkrishnar/blog-post-workflow@master
      with:
        comment_tag_name: "BLOGPOSTS"
-       feed_list: "https://foteinisavvidou.azurewebsites.net/feed/"
+       feed_list: "https://sfoteini.github.io/index.xml"
        max_post_count: "5"
    - uses: gautamkrishnar/blog-post-workflow@master
      with:
        comment_tag_name: "TALKS"
-       feed_list: "https://foteinisavvidou.azurewebsites.net/event/feed/"
+       feed_list: "https://sfoteini.github.io/categories/event/index.xml"
        max_post_count: "5"
