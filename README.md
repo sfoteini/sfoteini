@@ -18,7 +18,7 @@ My name is Foteini and I am an Electrical and Computer Engineering student. Here
 
 
 ## 😊 About me:
-Foteini Savvidou is an undergraduate Electrical and Computer Engineering student at Aristotle University of Thessaloniki, interested in AI, IoT, Wireless Communications, and cloud technologies, as well as in applications of technology in healthcare and education. She is [Gold Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/49820), developing multiple technological projects and presenting about Microsoft technologies in local and global conferences. Always passionate about teaching and discovering new things, Foteini helps people expand their technical skills through organizing workshops and writes articles on her [blog](https://sfoteini.github.io/).
+Foteini Savvidou is an undergraduate Electrical and Computer Engineering student at Aristotle University of Thessaloniki, interested in AI, IoT, Wireless Communications, and cloud technologies, as well as in applications of technology in healthcare and education. She is [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004971) and [Gold Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/49820), developing multiple technological projects and presenting about Microsoft technologies in local and global conferences. Always passionate about teaching and discovering new things, Foteini helps people expand their technical skills through organizing workshops and writes articles on her [blog](https://sfoteini.github.io/).
 
 
 ## 🔧 Technologies & Tools
