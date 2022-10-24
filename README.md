@@ -37,11 +37,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Serverless image classification with Azure Functions and Custom Vision – Part 4](https://sfoteini.github.io/blog/serverless-image-classification-with-azure-functions-and-custom-vision-part-4/)
 - [Serverless image classification with Azure Functions and Custom Vision – Part 3](https://sfoteini.github.io/blog/serverless-image-classification-with-azure-functions-and-custom-vision-part-3/)
 - [Serverless image classification with Azure Functions and Custom Vision – Part 2](https://sfoteini.github.io/blog/serverless-image-classification-with-azure-functions-and-custom-vision-part-2/)
 - [Serverless image classification with Azure Functions and Custom Vision – Part 1](https://sfoteini.github.io/blog/serverless-image-classification-with-azure-functions-and-custom-vision-part-1/)
 - [Export a Custom Vision model using the Python SDK](https://sfoteini.github.io/blog/export-a-custom-vision-model-using-the-python-sdk/)
-- [A visual introduction to Internet of Things &lpar;IoT&rpar;](https://sfoteini.github.io/blog/a-visual-introduction-to-iot/)
 <!-- BLOGPOSTS:END -->
 
 
