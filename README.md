@@ -37,11 +37,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [My experience as a mentor in Microsoft Imagine Cup](https://sfoteini.github.io/blog/my-experience-as-a-mentor-in-microsoft-imagine-cup/)
 - [Global AI Student Conference 2022](https://sfoteini.github.io/blog/global-ai-student-conference-2022/)
 - [Create applications with Azure Conversational Language Understanding](https://sfoteini.github.io/blog/create-applications-with-azure-conversational-language-understanding/)
 - [Join the 30-Day AI Developer Cloud Skills Challenge!](https://sfoteini.github.io/blog/join-the-30-day-ai-developer-challenge/)
 - [Build a serverless AI app with Azure Custom Vision and Logic Apps](https://sfoteini.github.io/blog/build-a-serverless-ai-app-with-azure-custom-vision-and-logic-apps/)
-- [Serverless image classification with Azure Functions and Custom Vision – Part 4](https://sfoteini.github.io/blog/serverless-image-classification-with-azure-functions-and-custom-vision-part-4/)
 <!-- BLOGPOSTS:END -->
 
 
