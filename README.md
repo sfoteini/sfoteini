@@ -37,11 +37,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Automate customer reviews processing with Form Recognizer and Azure OpenAI](https://sfoteini.github.io/blog/automate-customer-reviews-processing-with-form-recognizer-and-azure-openai/)
+- [Interview - Overcoming barriers: Empowering women in the ICT industry](https://sfoteini.github.io/blog/interview-overcoming-barriers-empowering-women-in-the-ict-industry/)
 - [Automate Document Processing with Azure Form Recognizer](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-emea-cmw-summit/)
 - [Automate document processing with Form Recognizer and Logic Apps &lpar;Part 2&rpar;](https://sfoteini.github.io/blog/automate-document-processing-with-form-recognizer-and-logic-apps-part-2/)
 - [Automate document processing with Form Recognizer and Logic Apps &lpar;Part 1&rpar;](https://sfoteini.github.io/blog/automate-document-processing-with-form-recognizer-and-logic-apps-part-1/)
-- [Automate Document Processing with Azure Form Recognizer - Azure for Sure](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-azure-for-sure/)
-- [Automate Document Processing with Azure Form Recognizer](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-global-ai-bootcamp/)
 <!-- BLOGPOSTS:END -->
 
 
