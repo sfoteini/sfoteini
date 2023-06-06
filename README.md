@@ -63,5 +63,5 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 </a>
 
 <a href="https://github.com/sfoteini">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sfoteini&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=D8BFD8&bg_color=1A2B34" alt="Foteini's GitHub Stats" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sfoteini&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=D8BFD8&bg_color=1A2B34&rank_icon=github&include_all_commits=true" alt="Foteini's GitHub Stats" />
 </a>
