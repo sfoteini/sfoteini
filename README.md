@@ -37,11 +37,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Image Vector Similarity Search with Azure Computer Vision and PostgreSQL](https://sfoteini.github.io/blog/image-vector-similarity-search-with-azure-computer-vision-and-postgresql/)
 - [Extract text from images with Azure Computer Vision 4.0 Read OCR](https://sfoteini.github.io/blog/extract-text-from-images-with-azure-computer-vision-4-read-ocr/)
 - [Explore Azure Computer Vision 4.0 &lpar;Florence model&rpar;](https://sfoteini.github.io/blog/explore-azure-computer-vision-4-florence-model/)
 - [Automate customer reviews processing with Form Recognizer and Azure OpenAI](https://sfoteini.github.io/blog/automate-customer-reviews-processing-with-form-recognizer-and-azure-openai/)
 - [Interview - Overcoming barriers: Empowering women in the ICT industry](https://sfoteini.github.io/blog/interview-overcoming-barriers-empowering-women-in-the-ict-industry/)
-- [Automate Document Processing with Azure Form Recognizer](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-emea-cmw-summit/)
 <!-- BLOGPOSTS:END -->
 
 
