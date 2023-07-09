@@ -47,11 +47,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 🎤 Latest Talks
 <!-- TALKS:START -->
+- [Microsoft Build After Party 2023](https://sfoteini.github.io/blog/microsoft-build-after-party-2023/)
 - [Interview - Overcoming barriers: Empowering women in the ICT industry](https://sfoteini.github.io/blog/interview-overcoming-barriers-empowering-women-in-the-ict-industry/)
 - [Automate Document Processing with Azure Form Recognizer](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-emea-cmw-summit/)
 - [Automate Document Processing with Azure Form Recognizer - Azure for Sure](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-azure-for-sure/)
 - [Automate Document Processing with Azure Form Recognizer](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-global-ai-bootcamp/)
-- [Global AI Student Conference 2022](https://sfoteini.github.io/blog/global-ai-student-conference-2022/)
 <!-- TALKS:END -->
 
 
