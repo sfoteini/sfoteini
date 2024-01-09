@@ -37,11 +37,11 @@ Foteini Savvidou is an undergraduate Electrical and Computer Engineering student
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Vector search on Azure Database for PostgreSQL with the Azure AI extension](https://sfoteini.github.io/blog/vector-search-on-azure-database-for-postgresql-with-the-azure-ai-extension/)
 - [Building a vector similarity search app with Azure AI Vision and PostgreSQL](https://sfoteini.github.io/blog/building-a-vector-similarity-search-app-with-azure-ai-vision-and-postgresql/)
 - [Vector Search with Azure AI Vision and PostgreSQL – MVP TechBytes](https://sfoteini.github.io/blog/vector-search-with-azure-ai-vision-and-postgresql-mvp-techbytes/)
 - [Microsoft Build After Party 2023](https://sfoteini.github.io/blog/microsoft-build-after-party-2023/)
 - [Image Vector Similarity Search with Azure Computer Vision and PostgreSQL](https://sfoteini.github.io/blog/image-vector-similarity-search-with-azure-computer-vision-and-postgresql/)
-- [Extract text from images with Azure Computer Vision 4.0 Read OCR](https://sfoteini.github.io/blog/extract-text-from-images-with-azure-computer-vision-4-read-ocr/)
 <!-- BLOGPOSTS:END -->
 
 
