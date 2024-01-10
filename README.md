@@ -11,29 +11,28 @@
 [![Microsoft MVP Badge](https://img.shields.io/badge/Microsoft%20MVP-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-us/PublicProfile/5004971)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat&logo=dev%2Eto&logoColor=white&color=0A0A0A)](https://www.dev.to/sfoteini)
 
-
 # Hi there 👋
-My name is Foteini and I am an Electrical and Computer Engineering student. Here you will find a small sample of the projects I am working on!
+
+I am Foteini Savvidou! Here you will find a small sample of the projects I am working on.
 
 ![Pronouns Badge](https://img.shields.io/badge/Pronouns-She/Her/Hers-D8BFD8?style=flat)
 
-
 ## 😊 About me:
-Foteini Savvidou is an undergraduate Electrical and Computer Engineering student at Aristotle University of Thessaloniki, interested in AI, IoT, Wireless Communications, and cloud technologies, as well as in applications of technology in healthcare and education. She is [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004971) and [Gold Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/49820), developing multiple technological projects and presenting about Microsoft technologies in local and global conferences. Always passionate about teaching and discovering new things, Foteini helps people expand their technical skills through organizing workshops and writes articles on her [blog](https://sfoteini.github.io/).
 
+Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2GRID in Greece. She holds an integrated Master’s degree in Electrical and Computer Engineering from the Aristotle University of Thessaloniki and is interested in IoT, AI, wireless communications, cloud technologies, and biomedical engineering. Foteini has been awarded as a [Microsoft Most Valuable Professional (MVP) in AI](https://mvp.microsoft.com/en-us/PublicProfile/5004971) and is actively involved in the [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/en-US/profile/49820) community.  She constantly shares her knowledge on Microsoft Azure technologies, speaks at conferences and user groups, and runs a [technical blog](https://sfoteini.github.io/).
 
+<!--
 ## 🔧 Technologies & Tools
+
 ![Python](https://img.shields.io/badge/Code-Python-D8BFD8?style=flat&logo=python&logoColor=white&color=D8BFD8)
-![Java](https://img.shields.io/badge/Code-Java-D8BFD8?style=flat&logo=java&logoColor=white&color=D8BFD8)
 ![Html](https://img.shields.io/badge/Code-HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=D8BFD8)
 ![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=D8BFD8)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-D8BFD8?style=flat&logo=microsoftazure&logoColor=white&color=D8BFD8)
 ![MATLAB](https://img.shields.io/badge/Tools-MATLAB-D8BFD8?style=flat&logo=matlab&logoColor=white&color=D8BFD8)
 ![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-D8BFD8?style=flat&logo=jupyter&logoColor=white&color=D8BFD8)
-![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8)
 ![Adobe Photoshop](https://img.shields.io/badge/Tools-Adobe%20Photoshop-D8BFD8?style=flat&logo=adobephotoshop&logoColor=white&color=D8BFD8)
 ![Adobe Illustrator](https://img.shields.io/badge/Tools-Adobe%20Illustrator-D8BFD8?style=flat&logo=adobeillustrator&logoColor=white&color=D8BFD8)
-
+-->
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
