@@ -36,11 +36,11 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Use pgvector for searching images on Azure Cosmos DB for PostgreSQL](https://sfoteini.github.io/blog/use-pgvector-for-searching-images-on-azure-cosmos-db-for-postgresql/)
 - [Store embeddings in Azure Cosmos DB for PostgreSQL with pgvector](https://sfoteini.github.io/blog/store-embeddings-in-azure-cosmos-db-for-postgresql-with-pgvector/)
 - [Generate embeddings with Azure AI Vision multi-modal embeddings API](https://sfoteini.github.io/blog/generate-embeddings-with-azure-ai-vision-multi-modal-embeddings-api/)
 - [Use the Azure AI Vision multi-modal embeddings API for image retrieval](https://sfoteini.github.io/blog/use-the-azure-ai-vision-multi-modal-embeddings-api-for-image-retrieval/)
 - [Vector search on Azure Database for PostgreSQL with the Azure AI extension](https://sfoteini.github.io/blog/vector-search-on-azure-database-for-postgresql-with-the-azure-ai-extension/)
-- [Building a vector similarity search app with Azure AI Vision and PostgreSQL](https://sfoteini.github.io/blog/building-a-vector-similarity-search-app-with-azure-ai-vision-and-postgresql/)
 <!-- BLOGPOSTS:END -->
 
 
