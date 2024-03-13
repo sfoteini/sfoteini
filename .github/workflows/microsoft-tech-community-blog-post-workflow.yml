@@ -1,0 +1,14 @@
+name: Latest Microsoft Tech Community blog post workflow
+on:
+ workflow_dispatch:
+jobs:
+ update-readme-with-microsoft-tech-community-posts:
+   name: Update this repo's README with latest Microsoft Tech Community blog posts
+   runs-on: ubuntu-latest
+   steps:
+   - uses: actions/checkout@v2
+   - uses: gautamkrishnar/blog-post-workflow@master
+     with:
+       comment_tag_name: "MSFT_TECH_COMMUNITY_BLOG_POSTS"
+       feed_list: "https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-6405617080076706809&board=EducatorDeveloperBlog&size=25&author=1164279"
+       max_post_count: "5"

@@ -7,7 +7,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/foteini-savvidou)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SavvidouFoteini)
 [![Blog Badge](https://img.shields.io/badge/Foteini%20Savvidou's-Blog-21759B?style=flat&color=ce8460)](https://sfoteini.github.io/)
-[![Blog Badge](https://img.shields.io/badge/Educator%20Developer%20Blog-Posts-6264A7?style=flat&logo=microsoft&logoColor=white&color=6264A7)](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1164279?WT.mc_id=AI-MVP-5004971)
+[![Blog Badge](https://img.shields.io/badge/Microsoft%20Tech%20Community-Posts-6264A7?style=flat&logo=microsoft&logoColor=white&color=6264A7)](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1164279?WT.mc_id=AI-MVP-5004971)
 [![Microsoft MVP Badge](https://img.shields.io/badge/Microsoft%20MVP-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7)](https://mvp.microsoft.com/en-us/PublicProfile/5004971)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat&logo=dev%2Eto&logoColor=white&color=0A0A0A)](https://www.dev.to/sfoteini)
 
@@ -17,7 +17,7 @@ I am Foteini Savvidou! Here you will find a small sample of the projects I am wo
 
 ![Pronouns Badge](https://img.shields.io/badge/Pronouns-She/Her/Hers-D8BFD8?style=flat)
 
-## 😊 About me:
+## 😊 About me
 
 Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2GRID in Greece. She holds an integrated Master’s degree in Electrical and Computer Engineering from the Aristotle University of Thessaloniki and is interested in IoT, AI, wireless communications, cloud technologies, and biomedical engineering. Foteini has been awarded as a [Microsoft Most Valuable Professional (MVP) in AI](https://mvp.microsoft.com/en-us/PublicProfile/5004971) and is actively involved in the [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/en-US/profile/49820) community.  She constantly shares her knowledge on Microsoft Azure technologies, speaks at conferences and user groups, and runs a [technical blog](https://sfoteini.github.io/).
 
@@ -43,6 +43,10 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 - [Use the Azure AI Vision multi-modal embeddings API for image retrieval](https://sfoteini.github.io/blog/use-the-azure-ai-vision-multi-modal-embeddings-api-for-image-retrieval/)
 <!-- BLOGPOSTS:END -->
 
+## ✍️ Latest Microsoft Tech Community Blog Posts
+<!-- MSFT_TECH_COMMUNITY_BLOG_POSTS:START -->
+
+<!-- MSFT_TECH_COMMUNITY_BLOG_POSTS:END -->
 
 ## 🎤 Latest Talks
 <!-- TALKS:START -->
@@ -52,7 +56,6 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 - [Interview - Overcoming barriers: Empowering women in the ICT industry](https://sfoteini.github.io/blog/interview-overcoming-barriers-empowering-women-in-the-ict-industry/)
 - [Automate Document Processing with Azure Form Recognizer](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-emea-cmw-summit/)
 <!-- TALKS:END -->
-
 
 ## 📈 GitHub Stats
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
