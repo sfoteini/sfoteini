@@ -45,11 +45,11 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 
 ## ✍️ Latest Microsoft Tech Community Blog Posts
 <!-- MSFT_TECH_COMMUNITY_BLOG_POSTS:START -->
+- [Speed up vector search in Azure Cosmos DB for PostgreSQL with pgvector indexes](https://techcommunity.microsoft.com/t5/educator-developer-blog/speed-up-vector-search-in-azure-cosmos-db-for-postgresql-with/ba-p/4087077)
 - [Store and query embeddings in Azure Cosmos DB for PostgreSQL with pgvector](https://techcommunity.microsoft.com/t5/educator-developer-blog/store-and-query-embeddings-in-azure-cosmos-db-for-postgresql/ba-p/4070907)
 - [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
 - [Building a vector similarity search app with Azure AI Vision and PostgreSQL](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-a-vector-similarity-search-app-with-azure-ai-vision-and/ba-p/3954936)
 - [Serverless image classification with Azure Functions and Custom Vision – Part 4](https://techcommunity.microsoft.com/t5/educator-developer-blog/serverless-image-classification-with-azure-functions-and-custom/ba-p/3647859)
-- [Serverless image classification with Azure Functions and Custom Vision – Part 3](https://techcommunity.microsoft.com/t5/educator-developer-blog/serverless-image-classification-with-azure-functions-and-custom/ba-p/3647841)
 <!-- MSFT_TECH_COMMUNITY_BLOG_POSTS:END -->
 
 ## 🎤 Latest Talks
