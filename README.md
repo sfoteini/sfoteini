@@ -36,11 +36,11 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Building an educational game with AI tools and Azure Static Web Apps &lpar;Part 2&rpar;](https://sfoteini.github.io/blog/building-an-educational-game-with-ai-tools-and-azure-static-web-apps-part-2/)
+- [Building an educational game with AI tools and Azure Static Web Apps &lpar;Part 1&rpar;](https://sfoteini.github.io/blog/building-an-educational-game-with-ai-tools-and-azure-static-web-apps-part-1/)
 - [Use HNSW index on Azure Cosmos DB for PostgreSQL for similarity search](https://sfoteini.github.io/blog/use-hnsw-index-on-azure-cosmos-db-for-postgresql-for-similarity-search/)
 - [Use IVFFlat index on Azure Cosmos DB for PostgreSQL for similarity search](https://sfoteini.github.io/blog/use-ivfflat-index-on-azure-cosmos-db-for-postgresql-for-similarity-search/)
 - [Use pgvector for searching images on Azure Cosmos DB for PostgreSQL](https://sfoteini.github.io/blog/use-pgvector-for-searching-images-on-azure-cosmos-db-for-postgresql/)
-- [Store embeddings in Azure Cosmos DB for PostgreSQL with pgvector](https://sfoteini.github.io/blog/store-embeddings-in-azure-cosmos-db-for-postgresql-with-pgvector/)
-- [Generate embeddings with Azure AI Vision multi-modal embeddings API](https://sfoteini.github.io/blog/generate-embeddings-with-azure-ai-vision-multi-modal-embeddings-api/)
 <!-- BLOGPOSTS:END -->
 
 ## ✍️ Latest Microsoft Tech Community Blog Posts
