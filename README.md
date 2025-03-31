@@ -38,9 +38,9 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 <!-- BLOGPOSTS:START -->
 - [Building an educational game with AI tools and Azure Static Web Apps &lpar;Part 2&rpar;](https://sfoteini.github.io/blog/building-an-educational-game-with-ai-tools-and-azure-static-web-apps-part-2/)
 - [Building an educational game with AI tools and Azure Static Web Apps &lpar;Part 1&rpar;](https://sfoteini.github.io/blog/building-an-educational-game-with-ai-tools-and-azure-static-web-apps-part-1/)
+- [A visual introduction to Azure Functions triggers and bindings](https://sfoteini.github.io/blog/a-visual-introduction-to-azure-functions-triggers-and-bindings/)
+- [A visual introduction to Azure Functions](https://sfoteini.github.io/blog/a-visual-introduction-to-azure-functions/)
 - [Use HNSW index on Azure Cosmos DB for PostgreSQL for similarity search](https://sfoteini.github.io/blog/use-hnsw-index-on-azure-cosmos-db-for-postgresql-for-similarity-search/)
-- [Use IVFFlat index on Azure Cosmos DB for PostgreSQL for similarity search](https://sfoteini.github.io/blog/use-ivfflat-index-on-azure-cosmos-db-for-postgresql-for-similarity-search/)
-- [Use pgvector for searching images on Azure Cosmos DB for PostgreSQL](https://sfoteini.github.io/blog/use-pgvector-for-searching-images-on-azure-cosmos-db-for-postgresql/)
 <!-- BLOGPOSTS:END -->
 
 ## ✍️ Latest Microsoft Tech Community Blog Posts
