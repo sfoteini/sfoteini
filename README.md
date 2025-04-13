@@ -52,15 +52,6 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 - [Serverless image classification with Azure Functions and Custom Vision – Part 4](https://techcommunity.microsoft.com/t5/educator-developer-blog/serverless-image-classification-with-azure-functions-and-custom/ba-p/3647859)
 <!-- MSFT_TECH_COMMUNITY_BLOG_POSTS:END -->
 
-## 🎤 Latest Talks
-<!-- TALKS:START -->
-- [Building a vector similarity search app with Azure AI Vision and PostgreSQL](https://sfoteini.github.io/blog/building-a-vector-similarity-search-app-with-azure-ai-vision-and-postgresql/)
-- [Vector Search with Azure AI Vision and PostgreSQL – MVP TechBytes](https://sfoteini.github.io/blog/vector-search-with-azure-ai-vision-and-postgresql-mvp-techbytes/)
-- [Microsoft Build After Party 2023](https://sfoteini.github.io/blog/microsoft-build-after-party-2023/)
-- [Interview - Overcoming barriers: Empowering women in the ICT industry](https://sfoteini.github.io/blog/interview-overcoming-barriers-empowering-women-in-the-ict-industry/)
-- [Automate Document Processing with Azure Form Recognizer](https://sfoteini.github.io/blog/automate-document-processing-with-azure-form-recognizer-emea-cmw-summit/)
-<!-- TALKS:END -->
-
 ## 📈 GitHub Stats
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
 
