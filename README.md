@@ -36,11 +36,11 @@ Foteini Savvidou works as a Back-End Engineer at the Cloud Platform team of NET2
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [How GitHub Copilot fits into my development workflow](https://sfoteini.github.io/blog/how-github-copilot-fits-into-my-development-workflow/)
 - [Building an educational game with AI tools and Azure Static Web Apps &lpar;Part 2&rpar;](https://sfoteini.github.io/blog/building-an-educational-game-with-ai-tools-and-azure-static-web-apps-part-2/)
 - [Building an educational game with AI tools and Azure Static Web Apps &lpar;Part 1&rpar;](https://sfoteini.github.io/blog/building-an-educational-game-with-ai-tools-and-azure-static-web-apps-part-1/)
-- [Study resources for preparing for the Microsoft AI-102 exam](https://sfoteini.github.io/blog/study-resources-for-preparing-for-the-microsoft-ai-102-exam/)
 - [A visual introduction to Azure Functions triggers and bindings](https://sfoteini.github.io/blog/a-visual-introduction-to-azure-functions-triggers-and-bindings/)
-- [A visual introduction to Azure Functions](https://sfoteini.github.io/blog/a-visual-introduction-to-azure-functions/)
+- [Study resources for preparing for the Microsoft AI-102 exam](https://sfoteini.github.io/blog/study-resources-for-preparing-for-the-microsoft-ai-102-exam/)
 <!-- BLOGPOSTS:END -->
 
 ## ✍️ Latest Microsoft Tech Community Blog Posts
